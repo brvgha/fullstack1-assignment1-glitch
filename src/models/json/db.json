@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "firstName": "Homer",
+      "lastName": "Simpson",
+      "email": "homer@simpson.com",
+      "password": "secret",
+      "_id": "a62139de-76e6-4de8-8a53-349ee4c2f6f3"
+    },
+    {
+      "firstName": "Marge",
+      "lastName": "Simpson",
+      "email": "marge@simpson.com",
+      "password": "secret",
+      "_id": "779f80bc-083a-4d88-b2b8-db54f381ed1b"
+    },
+    {
+      "firstName": "Bart",
+      "lastName": "Simpson",
+      "email": "bart@simpson.com",
+      "password": "secret",
+      "_id": "3a6e2d6b-d518-4984-8af0-987ef9ebea21"
+    },
+    {
+      "firstName": "john",
+      "lastName": "doe",
+      "email": "john@doe.com",
+      "password": "1234",
+      "_id": "6923bdae-8bc5-46d2-b519-0ef2ea190106"
+    }
+  ],
+  "placemarks": [
+    {
+      "name": "Place X",
+      "_id": "1a2c5129-9a06-417a-aa44-082a49101968"
+    },
+    {
+      "name": "Place Y",
+      "_id": "c48a7a36-add2-43b0-b194-76ea5d9e8efb"
+    },
+    {
+      "name": "Place Z",
+      "_id": "83220807-d470-4afd-a894-7a97694be595"
+    },
+    {
+      "name": "Michael Collin's Bridge",
+      "_id": "71a2a3d9-ec34-402e-bf9b-044235350644"
+    },
+    {
+      "userid": "6923bdae-8bc5-46d2-b519-0ef2ea190106",
+      "name": "Michael Collin's Bridge",
+      "_id": "aa4f9ecc-7c62-41c4-b726-a8300507bcbe"
+    }
+  ],
+  "infos": [
+    {
+      "category": "Bridge",
+      "description": "Connects Street X to Street Y",
+      "analytics": "1250 visits per day",
+      "_id": "4c3c00b6-9fe8-4ca3-a9d1-87902d6bf69f",
+      "placemarkid": "aa4f9ecc-7c62-41c4-b726-a8300507bcbe"
+    }
+  ]
+}
